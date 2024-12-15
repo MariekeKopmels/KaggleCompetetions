@@ -1,0 +1,9 @@
+# This is a whitelist, so first we ignore everything
+*
+
+# Don't ignore the gitignore file
+!.gitignore
+
+# Add the code folders and files of projects
+!titanic
+!titanic/*
